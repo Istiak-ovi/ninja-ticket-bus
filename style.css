@@ -122,3 +122,14 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+/* .input-group{
+	width: unset;
+}
+.form-control{
+	background-color: #F6F5FA;
+	border: none;
+    width: 65px;
+    border-radius: 10px!important;
+    font-weight: 700;
+    font-size: 20px;
+} */
